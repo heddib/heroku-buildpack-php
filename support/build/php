@@ -142,7 +142,7 @@ export PATH=${OUT_PREFIX}/bin:$PATH
 	--with-readline \
 	--enable-sockets \
 	--with-zlib \
-	--enable-bcmath=shared \
+	--enable-bcmath \
 	--enable-calendar=shared \
 	--enable-exif=shared \
 	--enable-ftp=shared \
